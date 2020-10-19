@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 - Mi nombre es Ignacio Rueda, estudiante y desarrollador.
 
