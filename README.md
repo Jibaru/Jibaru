@@ -12,7 +12,7 @@
 </br>
 </br>
 
-[![IgnacioR github stats](https://github-readme-stats.vercel.app/api?username=jibaru&count_private=true&theme=buefy&show_icons=true)](https://github.com/jibaru)
+[![IgnacioR github stats](https://github-readme-stats.vercel.app/api?username=jibaru&count_private=true&theme=buefy&show_icons=true&locale=ES)](https://github.com/jibaru)
 </br>
 </br>
-[![Top Langs Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jibaru&layout=compact)](https://github.com/jibaru/)
+[![Top Langs Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jibaru&layout=compact&locale=ES)](https://github.com/jibaru/)
