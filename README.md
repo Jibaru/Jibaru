@@ -19,12 +19,14 @@ Mi name is `Ignacio`, I'm currently a student and developer.
 #### Back-end Knowledge
 
 <img align="left" alt="Node js" height="26px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />
+<img align="left" alt="java" height="26px" src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png" />
+<img align="left" alt="python" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4BJMGB3mCKCTG6uBTd5tEZ5lXzNJ9ONQ1vA&usqp=CAU" />
 
 </br>
 
 ### Operating System
 
-Updated from Windows 8.1 to Ubuntu 20.04
+Ubuntu 20.04
 
 </br>
 </br>
