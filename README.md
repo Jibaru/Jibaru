@@ -6,6 +6,8 @@ Mi name is `Ignacio`, I'm currently a student and developer.
 
 <img align="left" alt="dart" height="26px" src="https://dart.dev/assets/logo_lockup_dart_horizontal-186d08217863a6ea400363df47d526f6dd89148e04cf2ce4de1718c5a212ee38.png" />
 <img align="left" alt="JS" width=26px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="java" height="26px" src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png" />
+<img align="left" alt="java" height="26px" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" />
 
 </br>
 
@@ -19,8 +21,8 @@ Mi name is `Ignacio`, I'm currently a student and developer.
 #### Back-end Knowledge
 
 <img align="left" alt="Node js" height="26px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />
-<img align="left" alt="java" height="26px" src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png" />
-<img align="left" alt="python" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4BJMGB3mCKCTG6uBTd5tEZ5lXzNJ9ONQ1vA&usqp=CAU" />
+<img align="left" alt="python" height="26px" src="https://img2.freepng.es/20180812/owt/kisspng-spring-framework-software-framework-java-applicati-brian-scott-russell-5b6febc976ed74.1863036315340615134871.jpg" />
+<img align="left" alt="python" height="26px" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" />
 
 </br>
 
