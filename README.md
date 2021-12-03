@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Mi name is `Ignacio`, I'm currently a student and developer.
+Mi name is `Ignacio`, I'm a student and developer.
 
 ### Programming Languages:
 
@@ -21,7 +21,7 @@ Mi name is `Ignacio`, I'm currently a student and developer.
 #### Back-end Knowledge
 
 <img align="left" alt="Node js" height="26px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />
-<img align="left" alt="python" height="26px" src="https://img2.freepng.es/20180812/owt/kisspng-spring-framework-software-framework-java-applicati-brian-scott-russell-5b6febc976ed74.1863036315340615134871.jpg" />
+<img align="left" alt="Spring" height="26px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
 <img align="left" alt="python" height="26px" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" />
 
 </br>
@@ -30,10 +30,13 @@ Mi name is `Ignacio`, I'm currently a student and developer.
 
 Ubuntu 20.04
 
+<!--
 </br>
 </br>
+
 
 [![IgnacioR github stats](https://github-readme-stats.vercel.app/api?username=jibaru&count_private=true&theme=buefy&show_icons=true&locale=ES)](https://github.com/jibaru)
 </br>
 </br>
 [![Top Langs Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jibaru&layout=compact&locale=ES)](https://github.com/jibaru/)
+-->
