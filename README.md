@@ -28,7 +28,7 @@ Mi name is `Ignacio`, I'm a student and developer.
 
 ### Operating System
 
-Ubuntu 20.04
+Archlinux 
 
 ### Connect with me
 <p align="left">
