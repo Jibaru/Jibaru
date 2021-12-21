@@ -64,6 +64,14 @@ Archlinux
        width="30" 
   />
 </a>
+<a href="https://www.codechef.com/users/jibaru97" target="blank">
+  <img 
+       align="center" 
+       src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" 
+       alt="Jibaru97"
+       width="30" 
+  />
+</a>
 </p>
 
 <!--
