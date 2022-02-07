@@ -28,7 +28,7 @@ Mi name is `Ignacio`, I'm a student and developer.
 
 ### Operating System
 
-Archlinux 
+KDE Neon 
 
 ### Connect with me
 <p align="left">
