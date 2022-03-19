@@ -1,37 +1,34 @@
-### Hi! 👋
+<h1 align="center">Hi! 👋</h1>
+<div align="center">Mi name is <b><i>Ignacio</i></b>, I'm a student and developer. </div>
 
-Mi name is `Ignacio`, I'm a student and developer.
+<h3 align="center">Programming Languages:</h3>
 
-### Programming Languages:
+<div align="center" width="100%">
+  <img align="center" alt="dart" height="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+  <img align="center" alt="JS" width="30px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+  <img align="center" alt="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+  <img align="center" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+</div>
 
-<img align="left" alt="dart" height="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt="JS" width="30px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
-<img align="left" alt="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<h3 align="center">Frontend Knowledge</h3>
+  
+<div align="center">
+  <img align="center" alt="Flutter" width="30px"  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+  <img align="center" alt="Vue 3" width="30px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
+</div>
 
-</br>
+<h3 align="center">Backend Knowledge</h3>
+<div align="center">
+  <img align="center" alt="Node js" height="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+  <img align="center" alt="Spring" height="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+  <img align="center" alt="MySQL" height="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+</div>
 
-#### Front-end Knowledge
+<h3 align="center">Operating System</h3>
+<div align="center">KDE Neon</div> 
 
-<img align="left" alt="Flutter" width="30px"  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt="Vue 3" width="30px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
-
-</br>
-
-#### Back-end Knowledge
-
-<img align="left" alt="Node js" height="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="Spring" height="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img align="left" alt="MySQL" height="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-
-</br>
-
-### Operating System
-
-KDE Neon 
-
-### Connect with me
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://fb.com/IgnacioRuedaB" target="blank">
   <img 
        align="center" 
@@ -83,3 +80,4 @@ KDE Neon
 </br>
 [![Top Langs Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jibaru&layout=compact&locale=ES)](https://github.com/jibaru/)
 -->
+</div>
