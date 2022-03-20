@@ -32,6 +32,8 @@
   <img align="center" alt="Spring" height="45px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
 </div>
 
 <h3 align="center">Operating System</h3>
