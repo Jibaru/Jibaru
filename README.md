@@ -50,7 +50,8 @@
   />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCWajYC835VB--9GOlZpsgFw" target="blank">
+<!--<a href="https://www.youtube.com/channel/UCWajYC835VB--9GOlZpsgFw" target="blank">-->
+<a href="https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA" target="blank">
   <img 
        align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
