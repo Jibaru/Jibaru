@@ -41,7 +41,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://fb.com/IgnacioRuedaB" target="blank">
+<a href="https://fb.com/IgnacioRuedaB" target="_blank">
   <img 
        align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
@@ -51,7 +51,7 @@
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--<a href="https://www.youtube.com/channel/UCWajYC835VB--9GOlZpsgFw" target="blank">-->
-<a href="https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA" target="blank">
+<a href="https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA" target="_blank">
   <img 
        align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
@@ -60,7 +60,7 @@
   />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ignacior97" target="blank">
+<a href="https://www.linkedin.com/in/ignacior97" target="_blank">
   <img 
        align="center" 
        src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" 
@@ -69,7 +69,7 @@
   />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/14657675/ignacior" target="blank">
+<a href="https://stackoverflow.com/users/14657675/ignacior" target="_blank">
   <img 
        align="center" 
        src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" 
@@ -78,11 +78,20 @@
   />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/jibaru97" target="blank">
+<a href="https://www.codechef.com/users/jibaru97" target="_blank">
   <img 
        align="center" 
        src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" 
        alt="Jibaru97"
+       width="45" 
+  />
+</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ignaciorueda.com" target="_blank">
+  <img 
+       align="center" 
+       src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" 
+       alt="ignacio Rueda Web"
        width="45" 
   />
 </a>
