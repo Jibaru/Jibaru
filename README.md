@@ -13,6 +13,8 @@
   <img align="center" alt="Python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="PHP" width="45px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Golang" width="45px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
 </div>
 
 <h3 align="center">Frontend Knowledge</h3>
@@ -34,6 +36,14 @@
   <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Docker" height="45px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Sentry" height="45px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Redis" height="45px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="MongoDB" height="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 </div>
 
 <h3 align="center">Operating System</h3>
