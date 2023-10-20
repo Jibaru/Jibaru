@@ -1,119 +1,32 @@
-<h1 align="center">Hi! 👋</h1>
-<div align="center">Mi name is <b><i>Ignacio</i></b>, I'm a student and developer. </div>
 
-<h3 align="center">Programming Languages:</h3>
+<pre>
 
-<div align="center" width="100%">
-  <img align="center" alt="dart" height="45px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="JS" width="45px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Java" width="45px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="PHP" width="45px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Golang" width="45px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
-</div>
+  <b>I'm Ignacio Rueda</b> [<i>Software Engineer</i>]
 
-<h3 align="center">Frontend Knowledge</h3>
+  > I'm working as a backend developer.
+  > Currently learning about software architectures.
   
-<div align="center">
-  <img align="center" alt="Flutter" width="45px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Vue 3" width="45px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="HTML 5" width="45px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
-</div>
+  Let's connect and build the future together! 🌟
 
-<h3 align="center">Backend Knowledge</h3>
-<div align="center">
-  <img align="center" alt="Node js" height="45px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Spring" height="45px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Docker" height="45px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Sentry" height="45px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Redis" height="45px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="MongoDB" height="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-</div>
+</pre>
 
-<h3 align="center">Operating System</h3>
-<div align="center">KDE Neon</div> 
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://fb.com/IgnacioRuedaB" target="_blank">
-  <img 
-       align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-       alt="Ignacio Rueda Boada" 
-       width="45" 
-  />
-</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--<a href="https://www.youtube.com/channel/UCWajYC835VB--9GOlZpsgFw" target="blank">-->
-<a href="https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA" target="_blank">
-  <img 
-       align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-       alt="Jibaru" 
-       width="45" 
-  />
-</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ignacior97" target="_blank">
-  <img 
-       align="center" 
-       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" 
-       alt="Ignacior97" 
-       width="45" 
-  />
-</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/14657675/ignacior" target="_blank">
-  <img 
-       align="center" 
-       src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" 
-       alt="Ignacior"
-       width="45" 
-  />
-</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/jibaru97" target="_blank">
-  <img 
-       align="center" 
-       src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" 
-       alt="Jibaru97"
-       width="45" 
-  />
-</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ignaciorueda.com" target="_blank">
-  <img 
-       align="center" 
-       src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" 
-       alt="ignacio Rueda Web"
-       width="45" 
-  />
-</a>
-</p>
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-purple?style=flat-square&logo=sentry&logoColor=white)
 
-<!--
-</br>
-</br>
+[![Linkedin: Ignacior](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacior97/)](https://www.linkedin.com/in/ignacior97/)
+[![Codechef: Jibaru97](https://img.shields.io/badge/-Codechef-black?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/jibaru97)](https://www.codechef.com/users/jibaru97)
+[![StackOverflow: Jibaru97](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14657675/ignacior)](https://stackoverflow.com/users/14657675/ignacior)
+[![Website: Jibaru97](https://img.shields.io/badge/-MyWebsite-gray?style=flat-square&logo=wordpress&logoColor=white&link=https://ignaciorueda.com)](https://ignaciorueda.com)
+[![Youtube: PullRequest](https://img.shields.io/badge/-PullRequest-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA)](https://www.youtube.com/channel/@pull-request)
+
+[![GitHub Jibaru](https://img.shields.io/github/followers/jibaru?label=follow&style=social)](https://github.com/Jibaru)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGr8eQCYphcYenLW11XQraA?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCGr8eQCYphcYenLW11XQraA?style=social)
 
 [![IgnacioR github stats](https://github-readme-stats.vercel.app/api?username=jibaru&count_private=true&theme=buefy&show_icons=true&locale=ES)](https://github.com/jibaru)
-</br>
-</br>
-[![Top Langs Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jibaru&layout=compact&locale=ES)](https://github.com/jibaru/)
--->
-</div>
+
