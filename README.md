@@ -21,6 +21,7 @@
 [![Linkedin: Ignacior](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacior97/)](https://www.linkedin.com/in/ignacior97/)
 [![Codechef: Jibaru97](https://img.shields.io/badge/-Codechef-black?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/jibaru97)](https://www.codechef.com/users/jibaru97)
 [![StackOverflow: Jibaru97](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14657675/ignacior)](https://stackoverflow.com/users/14657675/ignacior)
+[![Osu](https://img.shields.io/badge/-Osu-pink?style=flat-square&logo=Osu&logoColor=white&link=https://osu.ppy.sh/users/5434405)](https://osu.ppy.sh/users/5434405)
 [![Website: Jibaru97](https://img.shields.io/badge/-MyWebsite-gray?style=flat-square&logo=wordpress&logoColor=white&link=https://ignaciorueda.com)](https://ignaciorueda.com)
 [![Youtube: PullRequest](https://img.shields.io/badge/-PullRequest-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA)](https://www.youtube.com/channel/@pull-request)
 
