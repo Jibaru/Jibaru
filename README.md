@@ -19,7 +19,7 @@
 [![Osu](https://img.shields.io/badge/-Osu-ed61d6?style=flat-square&logo=Osu&logoColor=white&link=https://osu.ppy.sh/users/5434405)](https://osu.ppy.sh/users/5434405)
 [![Website: Jibaru97](https://img.shields.io/badge/-MyWebsite-gray?style=flat-square&logo=wordpress&logoColor=white&link=https://ignaciorueda.com)](https://ignaciorueda.com)
 [![Medium: Ignacior97](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://ignacior97.medium.com)](https://ignacior97.medium.com)
-[![Youtube: PullRequest](https://img.shields.io/badge/-PullRequest-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA)](https://www.youtube.com/channel/@pull-request)
+[![Youtube: PullRequest](https://img.shields.io/badge/-PullRequest-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA)](https://www.youtube.com/@pull-request)
 
 [![GitHub Jibaru](https://img.shields.io/github/followers/jibaru?label=follow&style=social)](https://github.com/Jibaru)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGr8eQCYphcYenLW11XQraA?style=social)
