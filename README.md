@@ -3,7 +3,7 @@
 > I'm working as a backend developer.
 > Currently learning about software architectures.
 
-> [Portfolio](https://jibaru.github.io/potfolio/)
+> [Portfolio](https://jibaru.github.io/portfolio/)
 
 ![PHP](https://img.shields.io/badge/-PHP-6868ba?style=flat-square&logo=PHP&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)
