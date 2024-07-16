@@ -5,12 +5,15 @@
 
 > [Portfolio](https://jibaru.github.io/portfolio/)
 
-![PHP](https://img.shields.io/badge/-PHP-6868ba?style=flat-square&logo=PHP&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-6868ba?style=flat-square&logo=PHP&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-purple?style=flat-square&logo=sentry&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-orange?style=flat-square&logo=aws&logoColor=white)
+![AWS Kinesis](https://img.shields.io/badge/-AWS_Kinesis-blue?style=flat-square&logo=aws&logoColor=white)
 
 [![Linkedin: Ignacior](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacior97/)](https://www.linkedin.com/in/ignacior97/)
 [![Codechef: Jibaru97](https://img.shields.io/badge/-Codechef-cf4e23?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/jibaru97)](https://www.codechef.com/users/jibaru97)
