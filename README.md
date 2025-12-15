@@ -19,7 +19,7 @@
 [![Codechef: Jibaru97](https://img.shields.io/badge/-Codechef-cf4e23?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/jibaru97)](https://www.codechef.com/users/jibaru97)
 [![StackOverflow: Jibaru97](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14657675/ignacior)](https://stackoverflow.com/users/14657675/ignacior)
 [![Osu](https://img.shields.io/badge/-Osu-ed61d6?style=flat-square&logo=Osu&logoColor=white&link=https://osu.ppy.sh/users/5434405)](https://osu.ppy.sh/users/5434405)
-[![X: IgnacioRuedaB](https://img.shields.io/badge/-X-gray?style=flat-square&logo=x&logoColor=white&link=https://x.com/IgnacioRuedaB)](https://ignaciorueda.com)
+[![X: IgnacioRuedaB](https://img.shields.io/badge/-X-gray?style=flat-square&logo=x&logoColor=white&link=https://x.com/IgnacioRuedaB)](https://x.com/IgnacioRuedaB)
 [![Medium: Ignacior97](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://ignacior97.medium.com)](https://ignacior97.medium.com)
 [![Youtube: PullRequest](https://img.shields.io/badge/-PullRequest-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCGr8eQCYphcYenLW11XQraA)](https://www.youtube.com/@pull-request)
 
