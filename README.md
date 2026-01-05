@@ -27,5 +27,4 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGr8eQCYphcYenLW11XQraA?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCGr8eQCYphcYenLW11XQraA?style=social)
 
-[![IgnacioR github stats](https://github-readme-stats.vercel.app/api?username=jibaru&count_private=true&theme=buefy&show_icons=true&locale=ES)](https://github.com/jibaru)
 
